@@ -5,7 +5,7 @@
 # CI is triggered on every commit on master branch.
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
